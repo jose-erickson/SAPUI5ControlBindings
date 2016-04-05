@@ -1,0 +1,11 @@
+{
+  "name": "SAPUI5 control Bindings Viewer",
+  "version": "1.0",
+  "description": "Extends Chrome the Developer Tools, adding a sidebar that displays the binding models and paths associated with the selected SAPUI5 control.",
+   "permissions": [
+      "activeTab",
+      "*://*/*"
+    ],
+  "devtools_page": "devtools.html",
+  "manifest_version": 2
+}
